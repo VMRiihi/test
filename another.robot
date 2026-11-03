@@ -43,7 +43,7 @@ Shop for products
     ClickText           Add to cart
     VerifyText          Cart summary
     VerifyText          Sacha the Deer
-    ClickText           Continue shopping
+    ClickText           Continue shopping${tmp.foo}
 
 # Pro Tip: Make sure that when each test case starts, your application is in a well-defined
 #          initial state. The test cases above use GoTo with a fixed URL to set the initial
